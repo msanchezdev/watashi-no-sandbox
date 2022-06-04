@@ -1,3 +1,0 @@
-10 Josefa_Brea A 100 20 200
-10 Maria_Auxiliadora A 100 20 30
-23 Albert_Thomas A 23 34 45

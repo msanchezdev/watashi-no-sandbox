@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "lerna": "^5.0.0",
+    "cypress": "^10.0.2"
+  },
+  "name": "watashi-no-sandbox"
+}

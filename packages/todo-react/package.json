@@ -1,0 +1,32 @@
+{
+  "name": "todo-react",
+  "version": "0.0.0",
+  "description": "TODO using React.js",
+  "author": "Manuel Sanchez <manuel@msanchez.dev>",
+  "homepage": "https://github.com/msanchezdev/watashi-no-sandbox#readme",
+  "license": "MIT",
+  "main": "dist/todo-react.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msanchezdev/watashi-no-sandbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msanchezdev/watashi-no-sandbox/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.9"
+  }
+}
